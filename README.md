@@ -11,4 +11,5 @@ This Repository contains Python-Pandas brushing skill with questions to answer v
 - Notebook solves the questions asked in the assignment with Pandas
 ### Jupyter Notebook: Customer Leads Analysis
 - Customer journey EDA
-- Analysis to find out the reasob behind drop in customer leads
+- Analysis to find out the reason behind drop in customer leads
+- Utilization on global map and its uses
